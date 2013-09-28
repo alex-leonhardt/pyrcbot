@@ -6,7 +6,7 @@ import string
 import os
 import time
 
-HOST="irc.nap"
+HOST="irc"
 PORT=6667
 NICK="bot"
 IDENT="bot"
